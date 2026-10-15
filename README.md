@@ -1,2 +1,2 @@
 # ReadmeIssue
-SVG header is not showing 
+SVG header banner is not showing 
